@@ -4,7 +4,7 @@
 
 Welcome to the NextGen Tech talks podcast blog! In this blog, we share insights and tips from the best in the business. Today, we have a very special guest with us, Rod Predy, Principal Cloud Advocate at Microsoft, who oversees some of the most innovative and impactful projects in the tech industry.
 
-## Main Content of the Interview with Rod Predy
+## Main Content of the Interview with Rory Preddy
 
 Rory: Thank you so much for inviting me. My name is Rory. I've got brown hair, I'm wearing glasses, and I'm wearing a green t-shirt with a green background because I want to be high energy and be excited for the sessions. I'm speaking to you from Johannesburg, South Africa, in my home office. Really excited to be here and talk about everything nerdy. So, go ahead and tell me about what nerdy questions we can answer.
 
